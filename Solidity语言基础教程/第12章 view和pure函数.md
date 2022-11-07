@@ -84,7 +84,7 @@ contract ViewPure {
 
 **输出** ：我们在Remix中编译、部署和运行这个合约例子，执行结果如下图：
 
-![](D:\资料\我的\项目\IT培训项目\区块链\课程\Solidity语言基础教程\images\remix-viewpure.png)
+![](./images/remix-viewpure.png)
 
 ## 课程小结
 
