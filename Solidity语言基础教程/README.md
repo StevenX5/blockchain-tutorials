@@ -37,4 +37,4 @@
 + 第30章
 
 ## 官网
-更多教程资料请访问[官网](https://www.benmo.cc)
+更多区块链教程资料请访问[官网](https://www.benmo.cc)
